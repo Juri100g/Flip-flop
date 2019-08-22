@@ -1,0 +1,17 @@
+<!<!DOCTYPE html>
+<<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Juri's første hjemmeside</title>
+  </head>
+  <body>
+    <h1>Mit navn er Juri</h1>
+    <h2>Hvorfor denne hjemmeside?</h2>
+    <p>Hej mit navn er Juri og det her er min første hjemmeside.
+    Jeg er ved at lære at bygge hjemmesider så jeg kan komme i gang med at programmere.
+    Jeg kunne godt tænkte mig at lære at programmere så jeg har noget at falde tilbage på
+  om ikke andet.</p>
+  <img src="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/14317487_1662721127377490_8956079347724021478_n.jpg?_nc_cat=100&_nc_oc=AQlH67AB8tvz5OI-ScDCrI5nJQmq--4MAfwuj0cXERQtHgEYpgIQj-URz5bNJm2ibzA&_nc_ht=scontent-cdt1-1.xx&oh=4e1f5d6852f6740a91328d5f4a64a10b&oe=5E0B4AB7" alt="Mig der kører på vandski">
+  </body>
+</html>
